@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284933043927",
+    "project_id": "owepal-5da9f",
+    "storage_bucket": "owepal-5da9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284933043927:android:a6e6db7c8b932de6aa6292",
+        "android_client_info": {
+          "package_name": "com.example.owe_pal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrzuhNJeS86qOyRxRoG36s8EC23ipuVVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
